@@ -1,0 +1,22 @@
+{
+  "name": "generator-erc721a-collection",
+  "version": "1.0.0",
+  "description": "A yeoman generator used to bootstrap an ERC721a collection.",
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "CREEK",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "gulp-rename": "^2.0.0",
+    "yeoman-generator": "^5.6.1"
+  },
+  "devDependencies": {
+    "@types/yeoman-generator": "^5.2.10"
+  }
+}
